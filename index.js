@@ -69,7 +69,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/product', (req, res) => {
-    res.send('de dor')
+    res.send('firs api')
 });
 
 
