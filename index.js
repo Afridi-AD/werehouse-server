@@ -69,7 +69,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/product', (req, res) => {
-    res.send('firs api')
+    res.send('simple api')
 });
 
 
