@@ -64,7 +64,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send('run aro run run')
+    res.send('run server')
 });
 
 
